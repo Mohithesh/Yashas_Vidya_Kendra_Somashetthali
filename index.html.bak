@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="with=decive-width, initial-scale=1.0">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>YASHAS VIDYA KENDRA Somashetti Halli</title>
+	<link rel="stylesheet" href="style.css">
+	<link rel="shortcut icon" type="x-icon" href="Photos/Y1000.PNG">
+	<link href="https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova&display=swap" rel="stylesheet">    
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+	<script src="https://kit.fontawesome.com/f032d07051.js"></script>
+	<script src="https://cdn.lordicon.com/ritcuqlt.js"></script>
+</head>
+<body>
+
+<!----- Header of the Page Style page line no 58-273 ------>
+
+<section class="header">
+	<svg class="waves" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+		<path fill="#ff9d00" fill-opacity="1" d="M0,288L21.8,277.3C43.6,267,87,245,131,
+			245.3C174.5,245,218,267,262,277.3C305.5,288,349,288,393,266.7C436.4,245,480,203,
+			524,197.3C567.3,192,611,224,655,224C698.2,224,742,192,785,192C829.1,192,873,224,
+			916,250.7C960,277,1004,299,1047,272C1090.9,245,1135,171,1178,165.3C1221.8,160,1265,
+			224,1309,256C1352.7,288,1396,288,1418,288L1440,288L1440,320L1418.2,320C1396.4,320,
+			1353,320,1309,320C1265.5,320,1222,320,1178,320C1134.5,320,1091,320,1047,320C1003.6,
+			320,960,320,916,320C872.7,320,829,320,785,320C741.8,320,698,320,655,320C610.9,320,
+			567,320,524,320C480,320,436,320,393,320C349.1,320,305,320,262,320C218.2,320,175,
+			320,131,320C87.3,320,44,320,22,320L0,320Z">
+		</path>
+	</svg>
+
+	<nav>
+	    <a href="index.html"><img src="Photos/Y2.jpeg"></a>
+		<div class="nav-links" id="navLinks">
+	    <i class="fa fa-times" onclick="hideMenu()"></i>
+		    <ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="about.html">About</a></li>
+				<li><a href="acadamics.html">Academics</a></li>
+				<li><a href="admission.html">Admission</a></li>
+				<li><a href="facilities.html">Facilities</a></li>
+				<li><a href="gallery.html">Gallery</a></li>		
+				<li><a href="contact.html">Contact Us</a></li>				
+				<li><a href="contact.html">Login</a></li>				
+			</ul>
+		</div>
+	    <i class="fa fa-bars" onclick="showMenu()"></i>
+	</nav>
+		
+	<div class="text-box">
+		<h1> YASHAS VIDYA KENDRA </h1>
+		<h2>Somashettihalli</h2>
+		<p>Learning For Life</p>
+		<a href="10thmarks.html" class="hero-btn">SSLC Result<br>2022-23</a>
+		<a href="" class="hero-btn">Apply for<br> Addmission</a>
+	</div>
+</section>
+
+<div class="demo">
+	<h1>PROVED MOVEMENT OF YASHAS VIDYA KENDRA</h1>
+</div>
+<!------Video ------>
+<div class="video22">	
+	<div class="section">
+		<video width="850rem" height="450rem" autoplay loop muted>
+			<source src="Videos/YVK1.mp4" type="video/mp4">
+		</video>
+	</div>
+</div>
+
+<!-----Team Member ------>
+
+<div class="demo">
+	<h1>BUILDERS OF Y.V.K</h1>
+</div>
+<div class="wrapper">
+	<div class="team">
+        <div class="team_member">
+         <div class="team_img">
+                <img src="Photos/Y23.jpg" alt="team_member_image">		 
+        </div>			
+		   <h3>MR R KRISHNAPPA</h3>
+           <p class="role">CHAIRMAN</p>
+           <p> MR.R.Krishanappa Sir is the chair person of over institution who had worked hard to grow 
+				this institution. He is a very Kind hearted person and very down too earthand will encourage
+				the Students and very supportivi		  
+			</p>
+        </div>
+        <div class="team_member">
+	        <div class="team_img">
+                <img src="Photos/Y24.jpg" alt="team_member_image">		 
+            </div>
+            <h3>MR YASHAS K</h3>
+            <p class="role">CEO</p>
+            <p> MR.Yashas.K is the CEO of the institution who is friendly with the students and with a 
+				good helping nature. 
+			</p>
+        </div>
+		<div class="team_member">
+         <div class="team_img">
+                <img src="Photos/Y25.jpg" alt="team_member_image">		 
+           </div>			
+		   <h3>SMT R RAJESHWARI</h3>
+           <p class="role">SECRETARY</p>
+           <p> Nothing great was achieved by any individual without enthusiasm and interest. 
+				To generate enthusiasm, one requires deep interest, involvement & commitment towards
+				whatever one is doing & towards whatever one wishes to achieve. 
+			</p>
+        </div> 
+		<div class="team_member">
+         <div class="team_img">
+                <img src="Photos/Y36.jpg" alt="team_member_image">		 
+           </div>			
+		   <h3>SMT BHAVYA H V</h3>
+           <p class="role">PRINCIPAL</p>
+           <p>Bhavya is the principal of Yashas Vidya Kendra - Chikkabanavara who have ** experience 
+				as principal and as remained succesfull in delivering positive results we have found her 
+				as very bold and brave lady with grate ideology 
+			</p>
+        </div> 
+    </div>
+</div>
+
+<!----NEW CHC---->
+
+<div class="newwri">
+	<div class="newwri1">
+		<img src="Photos/Y104.png">
+		<h1>Our Mission</h1>
+		<P>Blending the cultural heritages of India and the world with contemporary 
+			educational systems using innovative teaching methodology and modern 
+			technology to build and strengthen character that will not crumble when 
+			tested in the crucible of adulthood.
+		</P>
+		<a href="about.html" class="button">Read More ⟶</a>
+	</div>
+</div>
+
+<!-----Features ------>
+<div class="demo1">
+	<h1>Over Awesome Features</h1>
+</div>
+<section id="features">
+	<p></p>
+	<div class="fea-base">
+		<div class="fea-box">
+			 <script src="https://cdn.lordicon.com/ritcuqlt.js"></script>
+			<lord-icon
+				src="https://cdn.lordicon.com/dylyenoo.json"
+				trigger="loop"
+				delay="2000"
+				style="width:100px;height:100px">
+			</lord-icon>
+			 <h3>Activites</h3>
+			 <p>The main aim of school education is the overall development of a child. It includes all aspects apart from this,
+				cultural activities have an important role in the all-round development of students. In this article, the importance
+				of cultural activities in school education is described.<br>
+				⁍ Festival celebration.<br>
+				⁍ School Events.<br>
+				⁍ Dance competitions.<br>
+				⁍ Music competitions. <br>
+				⁍ Karate competitions.<br>
+				⁍ Sports competitions.<br>
+				⁍ Exhibition.</p>
+		</div>
+		<div class="fea-box1">
+			 <script src="https://cdn.lordicon.com/ritcuqlt.js"></script>
+				<lord-icon
+					src="https://cdn.lordicon.com/myroguwc.json"
+					trigger="loop"
+					delay="2000"
+					style="width:100px;height:100px">
+				</lord-icon>
+			 <h3>Smart Class Room</h3>
+			 <p>In today’s world, quality education is critical. One must keep up with the fast-paced environment and increasing competition. Educational standards, 
+				developments, and inventions have risen dramatically in recent years. Schools and other educational institutes have begun to adapt current teaching 
+				methods through interactive intelligent boards, projectors, and intelligent notepads.
+
+				Lately, students prefer to use tablets, phones, desktops and other devices to share and transfer study material, saving their time and effort. On the
+				brighter side, this smart technology advancement helps teachers turn boring lectures into engagement sessions. Continue reading the article to learn 
+				more about the smart class advantages and disadvantages.</p>
+		</div>
+		<div class="fea-box2">
+			<script src="https://cdn.lordicon.com/ritcuqlt.js"></script>
+			<lord-icon
+				src="https://cdn.lordicon.com/hbjlznlo.json"
+				trigger="loop"
+				delay="2000"
+				style="width:100px;height:100px">
+			</lord-icon>
+			 <h3>Science Lab</h3>
+			 <p>It is imperative for schools to have the latest and high quality science lab these days. Science is different from any other subject. In order to 
+				understand its concepts, one has to look beyond the books and conventional classroom teaching. Effective teaching and learning of science involves 
+				seeing, handling and manipulating real objects and materials. The knowledge that kids attain inn classrooms would be ineffectual unless they actually 
+				observe the process and understand the relationship between action and reaction..
+
+				schools must have the latest science lab supplies and equipment to make science interesting and effective for students and to encourage them to make 
+				significant contributions in the field.</p>
+		</div>
+	</div>
+</section>
+
+<!-----Acadimics----->
+
+<div class="demo1">
+	<h1>Our Acadimics</h1>
+</div>
+<section class="facilities">
+	    <div class="facilities-col">
+		    <img src="Photos/Y87.jpg">
+		    <h3>NURSERY SCHOOL</h3>
+		    <p></p>	
+
+		</div>	
+		<div class="facilities-col1">
+		    <img src="Photos/Y81.jpg">
+		    <h3>PRIMARY SCHOOL</h3>
+		    <p></p>	
+
+		</div>
+		<div class="facilities-col2">
+		    <img src="Photos/Y28.jpg">
+		    <h3>HIGH SCHOOL</h3>
+		    <p></p>	
+
+		</div>
+</section>
+
+<!----Facilities ------>
+<div class="demo">
+	<h1>Our Facilities</h1>
+</div>
+<section class="facimg">
+	    <div class="fac">
+		    <img src="Photos/Y90.jpg">
+		    <h3>Transport Facility</h3>
+		    <p></p>	
+
+		</div>	
+		<div class="fac1">
+		    <img src="Photos/Y80.jpg">
+		    <h3>Ground Facility</h3>
+		    <p></p>	
+
+		</div>
+		<div class="fac2">
+		    <img src="Photos/Y78.jpg">
+		    <h3>Library Facility</h3>
+		    <p></p>	
+
+		</div>
+</section>
+<section class="facimg2">
+	    <div class="fac4">
+		    <img src="Photos/Y79.jpg">
+		    <h3> Physical Activite</h3>
+		    <p></p>	
+
+		</div>	
+		<div class="fac5">
+		    <img src="Photos/Y88.jpg">
+		    <h3>Lab Facility</h3>
+		    <p></p>	
+
+		</div>
+		<div class="fac6">
+		    <img src="Photos/Y89.jpg">
+		    <h3>Smartclass Room</h3>
+		    <p></p>	
+
+		</div>
+</section>
+
+<div class="due">
+			<p>➤ Notable infrastructure & Safe Campus.</p>	
+			<br>
+		    <p>➤ Experienced, Qualified, Dedicated & Caring teaching faculty.</p>	
+			<br>
+		    <p>➤ Focus on Childern growth at grass root level with Nursery wing.</p>	
+			<br>
+		    <p>➤ State of the Art Classroom, Labs, Library, Smart board & Computers.</p>	
+			<br>
+		    <p>➤ Controlled Entry / Exit into school backed by CCTV surveillance.</p>
+			<br>			
+		    <p>➤ Regular coaching for <b>KHO-KHO, KABADDI, THROW BALL, VOLLEYBALL, ATHLETICS, KARATE & YOGA </b> even after School Hours .</p>	
+		    <br>
+			<p>➤ Well & Safe  Transport Facilitie.</p>
+			<br>
+		    <p>➤ Empowering Childern with 21st Century Skill.</p>	
+</div>
+
+<!------ Call To Action -------->
+     
+<section class="cta">
+    <h1><b>Enroll Now For Your Admission</b></h1>
+	<a href="contact.html" class="hero-btn">CONTACT US</a>
+</section>
+
+<!------ Footer -------->
+
+	<footer>
+		<div class="row">
+			<div class="col">
+				<img src="Photos/Y2.jpeg" class="logo1">
+				<h3>Yashas Insitutions is a long cherished dream of 
+					Mr. Krishanappa, whose vision was to start an 
+					educational institution combining the virtues 
+					of art and culture, which will endeavor to raise 
+					the integrated child who is not dwarfed by 
+					consideration of caste, creed or community.
+				</h3>
+			</div>
+			<div class="col">
+				<h1>Reach Us <div class="underline"><span></span></div> </h1>
+				<p><i style="line-height: 2;" class="fa-solid fa-phone-volume"></i><br>782-981-4447</p>
+				<p class="email-id"><i style="line-height: 2;" class="fa-solid fa-message"></i><br>yashasvidyakendra@gmail.com</p>
+				<p><i style="line-height: 2;" class="fa-solid fa-map-location-dot"></i><br>#25, Somashettihalli, Near Panchayath Office,
+					Chikkabanavara Post, Bangalore-560090</p>
+			</div>
+			<div class="col">
+				<h1>Links <div class="underline"><span></span></div> </h1>
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="about.html">About</a></li>
+					<li><a href="admission.html">Admission</a></li>
+					<li><a href="contact.html">Contact</a></li>
+					<li><a href="login.html">Login</a></li>
+				</ul>
+			</div>
+			<div class="col">
+				<h1>Enquiry <div class="underline"><span></span></div> </h1>
+				<form>
+					<i class="fa-solid fa-envelope"></i>
+					<input type="email" placeholder="Enter your email id" required>
+					<button type="submit"><i class="fa-solid fa-arrow-right"></i></button>
+				</form>
+				<div class="social-icons">
+					<a href="https://www.facebook.com/yashas.vidyakendra" target="_blank"><i style="color:#3b5998;" class="fab fa-facebook"></i></a>
+					<a href="https://www.instagram.com/yashas_vidya_kendra/" target="_blank"><i style="color:#C605FF;" class="fab fa-instagram"></i></a>
+					<a href="https://wa.me/7829814447" target="_blank"><i style="color:#189100;" class="fab fa-whatsapp"></i></a>
+					<a href="https://www.youtube.com/@yashasvidyakendra8422" target="_blank"><i style="color:#FF0000;" class="fab fa-youtube"></i></a>
+				</div>
+			</div>
+		</div>
+		<hr>
+		<p class="copyrights">Copyright © Vidya Kendra 2017. All rights reserved.</p>
+	</footer>
+
+<!--------JavaScript for Toggle Menu------->
+<script>
+
+    var navLinks = document.getElementById("navLinks");	
+	function showMenu(){
+	    navLinks.style.right = "0";
+	}
+	function hideMenu(){
+	    navLinks.style.right = "-200px";
+	}
+	
+</script> 
+
+</body>
+</html> 
+
+
+
+
+
